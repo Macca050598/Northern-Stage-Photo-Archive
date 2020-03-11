@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Northern Stage</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <title>Northern Stage</title>
+    <head>
+
+
+ <body>
+        <div class="Logo">
+            <H3>The Nav</H3>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Archive</a></li>
+                    <li><a href="#">Help</a></li>
+                </ul>
+
+            </nav>
+        </div>
+</body>
